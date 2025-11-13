@@ -73,7 +73,7 @@ Jupyter Notebook
 ▶️ How to Run the Project
 Clone the repository:
 
-git clone https://github.com/Shwetzz16/Global-CO2-Emissions-Analysis.git
+git clone (https://github.com/Shwetzz16/Global-CO2-Emission-Analysis)
 
 Install dependencies:
 pip install pandas numpy matplotlib
