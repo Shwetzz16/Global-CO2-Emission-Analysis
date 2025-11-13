@@ -11,7 +11,6 @@ The analysis is performed using Python, with a focus on generating clear, simple
 ├── 📄 Global CO2 Emissions.ipynb    # Main analysis notebook
 ├── 📄 Carbon_(CO2)_Emissions_by_Country.csv   # Dataset used
 ├── 📄 README.md                     # Project documentation
-└── 📁 images/                       # Saved plots (optional)
 
 📊 Dataset Description
 
